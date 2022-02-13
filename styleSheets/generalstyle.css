@@ -1,0 +1,15 @@
+* {
+    font-family: "Arial";
+    background-color: rgb(0, 128, 128);
+    margin: 10px;
+}
+p, h1, button, form, i, input {
+    color: lightgrey;
+}
+
+#disappear {
+    visibility: hidden;
+}
+#win {
+    visibility: hidden;
+}
