@@ -1,10 +1,10 @@
 * {
     font-family: "Arial";
-    background-color: rgb(0, 128, 128);
+    background-color: teal;
     margin: 10px;
 }
 p, h1, button, form, i, input {
-    color: lightgrey;
+    color: white;
 }
 
 #disappear {
