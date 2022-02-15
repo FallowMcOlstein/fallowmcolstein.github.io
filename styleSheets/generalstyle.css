@@ -2,14 +2,9 @@
     font-family: "Arial";
     background-color: teal;
     margin: 10px;
-}
-p, h1, button, form, i, input {
     color: white;
 }
 
-#disappear {
-    visibility: hidden;
-}
-#win {
-    visibility: hidden;
+a {
+    color: rgb(85, 26, 139);
 }
